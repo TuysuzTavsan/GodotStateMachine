@@ -1,4 +1,4 @@
-* My preferred Godot state machine template.
+## My preferred Godot state machine template.
 
 - xPersistantState is the 'main' script that owns states.
 - xState is the base class for every state.
